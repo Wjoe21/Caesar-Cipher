@@ -1,9 +1,4 @@
 /*
-  Wasif Johar
-  CPSC 1071: 003
-  C++// makes C bigger
-  4/8/22
-
   This is the header file for class Cipher. It has three private members, one of them being a pointer
   to the current cipher key. The Queue Key is a Queue instance that keeps track of the key in the 
   Queue. There are 4 public methods

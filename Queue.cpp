@@ -1,9 +1,4 @@
 /*
-  Wasif Johar
-  CPSC 1071: 003
-  C++// makes C bigger
-  4/8/22
-
   Implementation file for class Queue.
   Methods include:
   - Queue() (default constructor)
